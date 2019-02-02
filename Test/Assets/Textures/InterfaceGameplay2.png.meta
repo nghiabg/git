@@ -1,0 +1,575 @@
+fileFormatVersion: 2
+guid: 2c293727c12ce8b46a87128c3326df88
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: InterfaceGameplay_0
+    21300002: InterfaceGameplay_1
+    21300004: InterfaceGameplay_2
+    21300006: InterfaceGameplay_3
+    21300008: InterfaceGameplay_4
+    21300010: InterfaceGameplay_5
+    21300012: InterfaceGameplay_6
+    21300014: InterfaceGameplay_7
+    21300016: InterfaceGameplay_8
+    21300018: InterfaceGameplay_9
+    21300020: InterfaceGameplay_10
+    21300022: InterfaceGameplay_11
+    21300024: InterfaceGameplay_12
+    21300026: InterfaceGameplay_13
+    21300028: InterfaceGameplay_14
+    21300030: InterfaceGameplay_15
+    21300032: InterfaceGameplay_16
+    21300034: InterfaceGameplay_17
+    21300036: InterfaceGameplay_18
+    21300038: InterfaceGameplay_19
+    21300040: InterfaceGameplay_20
+    21300042: InterfaceGameplay_21
+    21300044: InterfaceGameplay_22
+    21300046: InterfaceGameplay_23
+    21300048: InterfaceGameplay_24
+    21300050: InterfaceGameplay_25
+    21300052: InterfaceGameplay_26
+    21300054: InterfaceGameplay_27
+    21300056: InterfaceGameplay_28
+    21300058: InterfaceGameplay_29
+    21300060: InterfaceGameplay_30
+    21300062: InterfaceGameplay_31
+    21300064: InterfaceGameplay_32
+    21300066: InterfaceGameplay_33
+    21300068: InterfaceGameplay_34
+    21300070: InterfaceGameplay_35
+    21300072: InterfaceGameplay_36
+    21300074: InterfaceGameplay_37
+    21300076: InterfaceGameplay_38
+    21300078: InterfaceGameplay_39
+    21300080: InterfaceGameplay_40
+    21300082: InterfaceGameplay_41
+    21300084: InterfaceGameplay_42
+    21300086: InterfaceGameplay_43
+    21300088: InterfaceGameplay_44
+    21300090: InterfaceGameplay_45
+    21300092: InterfaceGameplay_46
+    21300094: InterfaceGameplay_47
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: InterfaceGameplay_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 979
+        width: 598
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 507
+        width: 424
+        height: 516
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceGameplay_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 868
+        width: 122
+        height: 110
+      alignment: 9
+      pivot: {x: .454380929, y: .485770404}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 909
+        width: 451
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceGameplay_4
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 864
+        width: 407
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceGameplay_5
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 868
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceGameplay_6
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 782
+        width: 82
+        height: 83
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceGameplay_7
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 801
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceGameplay_8
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 797
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceGameplay_9
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 827
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceGameplay_10
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 792
+        width: 214
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceGameplay_11
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 551
+        width: 52
+        height: 313
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceGameplay_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 696
+        width: 84
+        height: 85
+      alignment: 9
+      pivot: {x: .603563547, y: .507310569}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceGameplay_13
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 721
+        width: 74
+        height: 59
+      alignment: 9
+      pivot: {x: .417575538, y: .823922873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceGameplay_14
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 745
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceGameplay_15
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 713
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceGameplay_16
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 701
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceGameplay_17
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 672
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceGameplay_18
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 712
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceGameplay_19
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 566
+        width: 113
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceGameplay_20
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 667
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceGameplay_21
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 633
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceGameplay_22
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 642
+        width: 5
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceGameplay_23
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 620
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceGameplay_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 530
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceGameplay_25
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 532
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceGameplay_26
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 530
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceGameplay_27
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 512
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceGameplay_28
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 292
+        width: 141
+        height: 235
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceGameplay_29
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 404
+        width: 106
+        height: 104
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceGameplay_30
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 302
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceGameplay_31
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 193
+        width: 45
+        height: 311
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceGameplay_32
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 175
+        width: 413
+        height: 329
+      alignment: 9
+      pivot: {x: .0530704372, y: .515671372}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceGameplay_33
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 292
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceGameplay_34
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 287
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceGameplay_35
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 176
+        width: 189
+        height: 123
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceGameplay_36
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 177
+        width: 45
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceGameplay_37
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 175
+        width: 145
+        height: 112
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceGameplay_38
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 176
+        width: 142
+        height: 107
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceGameplay_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1024
+        height: 174
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceGameplay_40
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 645
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceGameplay_41
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 528
+        width: 87
+        height: 106
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceGameplay_42
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 597
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceGameplay_43
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 461
+        width: 101
+        height: 101
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceGameplay_44
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 753
+        width: 69
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceGameplay_45
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 719
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceGameplay_46
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 447
+        width: 73
+        height: 259
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceGameplay_47
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 447
+        width: 70
+        height: 248
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

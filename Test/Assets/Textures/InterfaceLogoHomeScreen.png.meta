@@ -1,0 +1,476 @@
+fileFormatVersion: 2
+guid: 2796bb7adfaa38944b9b2bff162308d2
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: InterfaceLogoHomeScreen_0
+    21300002: InterfaceLogoHomeScreen_1
+    21300004: InterfaceLogoHomeScreen_2
+    21300006: InterfaceLogoHomeScreen_3
+    21300008: InterfaceLogoHomeScreen_4
+    21300010: InterfaceLogoHomeScreen_5
+    21300012: InterfaceLogoHomeScreen_6
+    21300014: InterfaceLogoHomeScreen_7
+    21300016: InterfaceLogoHomeScreen_8
+    21300018: InterfaceLogoHomeScreen_9
+    21300020: InterfaceLogoHomeScreen_10
+    21300022: InterfaceLogoHomeScreen_11
+    21300024: InterfaceLogoHomeScreen_12
+    21300026: InterfaceLogoHomeScreen_13
+    21300028: InterfaceLogoHomeScreen_14
+    21300030: InterfaceLogoHomeScreen_15
+    21300032: InterfaceLogoHomeScreen_16
+    21300034: InterfaceLogoHomeScreen_17
+    21300036: InterfaceLogoHomeScreen_18
+    21300038: InterfaceLogoHomeScreen_19
+    21300040: InterfaceLogoHomeScreen_20
+    21300042: InterfaceLogoHomeScreen_21
+    21300044: InterfaceLogoHomeScreen_22
+    21300046: InterfaceLogoHomeScreen_23
+    21300048: InterfaceLogoHomeScreen_24
+    21300050: InterfaceLogoHomeScreen_25
+    21300052: InterfaceLogoHomeScreen_26
+    21300054: InterfaceLogoHomeScreen_27
+    21300056: InterfaceLogoHomeScreen_28
+    21300058: InterfaceLogoHomeScreen_29
+    21300060: InterfaceLogoHomeScreen_30
+    21300062: InterfaceLogoHomeScreen_31
+    21300064: InterfaceLogoHomeScreen_32
+    21300066: InterfaceLogoHomeScreen_33
+    21300068: InterfaceLogoHomeScreen_34
+    21300070: InterfaceLogoHomeScreen_35
+    21300072: InterfaceLogoHomeScreen_36
+    21300074: InterfaceLogoHomeScreen_37
+    21300076: InterfaceLogoHomeScreen_38
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: InterfaceLogoHomeScreen_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 751
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceLogoHomeScreen_1
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 883
+        width: 117
+        height: 141
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceLogoHomeScreen_2
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 885
+        width: 106
+        height: 138
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceLogoHomeScreen_3
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 884
+        width: 91
+        height: 139
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceLogoHomeScreen_4
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 884
+        width: 96
+        height: 138
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceLogoHomeScreen_5
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 886
+        width: 94
+        height: 133
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceLogoHomeScreen_6
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 884
+        width: 101
+        height: 136
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceLogoHomeScreen_7
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 940
+        width: 54
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceLogoHomeScreen_8
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 945
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceLogoHomeScreen_9
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 888
+        width: 67
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceLogoHomeScreen_10
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 778
+        width: 99
+        height: 104
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceLogoHomeScreen_11
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 780
+        width: 94
+        height: 101
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceLogoHomeScreen_12
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 778
+        width: 81
+        height: 101
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceLogoHomeScreen_13
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 779
+        width: 93
+        height: 101
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceLogoHomeScreen_14
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 780
+        width: 82
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceLogoHomeScreen_15
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 780
+        width: 79
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceLogoHomeScreen_16
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 783
+        width: 68
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceLogoHomeScreen_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 477
+        width: 273
+        height: 273
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceLogoHomeScreen_18
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 682
+        width: 494
+        height: 93
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceLogoHomeScreen_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 301
+        width: 177
+        height: 176
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceLogoHomeScreen_20
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 205
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceLogoHomeScreen_21
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 283
+        width: 380
+        height: 380
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceLogoHomeScreen_22
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 288
+        width: 252
+        height: 243
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceLogoHomeScreen_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 100
+        width: 82
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceLogoHomeScreen_24
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 175
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 5, y: 7, z: 5, w: 4}
+    - name: InterfaceLogoHomeScreen_25
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 0
+        width: 545
+        height: 279
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceLogoHomeScreen_26
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 128
+        width: 116
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceLogoHomeScreen_27
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 76
+        width: 152
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceLogoHomeScreen_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceLogoHomeScreen_29
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 8
+        width: 91
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceLogoHomeScreen_30
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 5
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceLogoHomeScreen_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 181
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceLogoHomeScreen_32
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 533
+        width: 252
+        height: 247
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceLogoHomeScreen_33
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 780
+        width: 71
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceLogoHomeScreen_34
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 780
+        width: 67
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceLogoHomeScreen_35
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 642
+        width: 253
+        height: 138
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceLogoHomeScreen_36
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 124
+        width: 218
+        height: 155
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 46, y: 45, z: 47, w: 43}
+    - name: InterfaceLogoHomeScreen_37
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 286
+        width: 100
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InterfaceLogoHomeScreen_38
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 377
+        width: 84
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

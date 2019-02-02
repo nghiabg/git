@@ -1,0 +1,355 @@
+fileFormatVersion: 2
+guid: 587312d651e913d4fba8034934fbbf3a
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: WinLoseTexture_0
+    21300002: WinLoseTexture_1
+    21300004: WinLoseTexture_2
+    21300006: WinLoseTexture_3
+    21300008: WinLoseTexture_4
+    21300010: WinLoseTexture_5
+    21300012: WinLoseTexture_6
+    21300014: WinLoseTexture_7
+    21300016: WinLoseTexture_8
+    21300018: WinLoseTexture_9
+    21300020: WinLoseTexture_10
+    21300022: WinLoseTexture_11
+    21300024: WinLoseTexture_12
+    21300026: WinLoseTexture_13
+    21300028: WinLoseTexture_14
+    21300030: WinLoseTexture_15
+    21300032: WinLoseTexture_16
+    21300034: WinLoseTexture_17
+    21300036: WinLoseTexture_18
+    21300038: WinLoseTexture_19
+    21300040: WinLoseTexture_20
+    21300042: WinLoseTexture_21
+    21300044: WinLoseTexture_22
+    21300046: WinLoseTexture_23
+    21300048: WinLoseTexture_24
+    21300050: WinLoseTexture_25
+    21300052: WinLoseTexture_26
+    21300054: WinLoseTexture_27
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: WinLoseTexture_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 866
+        width: 157
+        height: 152
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WinLoseTexture_1
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 863
+        width: 178
+        height: 154
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WinLoseTexture_2
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 865
+        width: 161
+        height: 151
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WinLoseTexture_3
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 866
+        width: 157
+        height: 152
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WinLoseTexture_4
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 863
+        width: 178
+        height: 154
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WinLoseTexture_5
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 865
+        width: 161
+        height: 151
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WinLoseTexture_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 716
+        width: 251
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WinLoseTexture_7
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 723
+        width: 452
+        height: 123
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WinLoseTexture_8
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 760
+        width: 102
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WinLoseTexture_9
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 762
+        width: 100
+        height: 98
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WinLoseTexture_10
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 760
+        width: 103
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WinLoseTexture_11
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 515
+        width: 394
+        height: 197
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WinLoseTexture_12
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 388
+        width: 126
+        height: 325
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WinLoseTexture_13
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 554
+        width: 158
+        height: 127
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WinLoseTexture_14
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 617
+        width: 312
+        height: 139
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WinLoseTexture_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 250
+        width: 250
+        height: 253
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WinLoseTexture_16
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 186
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WinLoseTexture_17
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 383
+        width: 75
+        height: 159
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WinLoseTexture_18
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 171
+        width: 235
+        height: 444
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WinLoseTexture_19
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 194
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WinLoseTexture_20
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 0
+        width: 422
+        height: 178
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WinLoseTexture_21
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 0
+        width: 166
+        height: 166
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WinLoseTexture_22
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 114
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WinLoseTexture_23
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 112
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WinLoseTexture_24
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 54
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WinLoseTexture_25
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 0
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WinLoseTexture_26
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 5
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WinLoseTexture_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 249
+        height: 250
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

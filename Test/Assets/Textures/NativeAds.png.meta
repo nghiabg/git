@@ -1,0 +1,132 @@
+fileFormatVersion: 2
+guid: fc2ec848d9b90af4581a035e2fd4aa84
+timeCreated: 1479986427
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: NativeAdsSettings
+    21300002: NativeAdsLevelSelect
+    21300004: NativeAdsWinLose
+    21300006: NativeAdsWorldChoose
+    21300008: NativeAdsChampionship
+    21300010: NativeAdsHomeScreen
+    21300012: NativeAdsLevelStart
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: NativeAdsSettings
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 757
+        width: 463
+        height: 266
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NativeAdsLevelSelect
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 913
+        width: 381
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NativeAdsWinLose
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 417
+        width: 199
+        height: 329
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NativeAdsWorldChoose
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 743
+        width: 399
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NativeAdsChampionship
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 271
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NativeAdsHomeScreen
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 201
+        width: 345
+        height: 522
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NativeAdsLevelStart
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 369
+        width: 402
+        height: 340
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
