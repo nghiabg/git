@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\CrossPromotion\DynamicScrollView.cs">
+    <Files>
+      <File FileName="Assets\Scripts\CrossPromotion\CrossPromotion.cs" Line="181" Column="36" />
+      <File FileName="Assets\Scripts\Menu\MenuManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CrossPromotion\DynamicScrollView.cs" Line="58" Column="32" />
+      <File FileName="Assets\Scripts\Menu\Menu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SplashScene.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DailyRewards.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CrossPromotion\OfferWallIconChanger.cs" Line="15" Column="69" />
+      <File FileName="Assets\Scripts\FPS_Counter.cs" Line="48" Column="8" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

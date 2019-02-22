@@ -1,0 +1,37 @@
+<xml>
+	<character name="Granny">
+		<maxtip>10</maxtip>
+		<patience>1</patience>
+		<description></description>
+	</character>
+	<character name="SchoolGirl">
+		<maxtip>5</maxtip>
+		<patience>1</patience>
+		<description></description>
+	</character>	
+	<character name="SchoolBoy">
+		<maxtip>5</maxtip>
+		<patience>1</patience>
+		<description>New customer: School boy! Eats a lot, always in a hurry!</description>
+	</character>
+	<character name="Businessman">
+		<maxtip>15</maxtip>
+		<patience>2</patience>
+		<description>Business manager! He's in a rush, but leaves good tips!</description>
+	</character>
+	<character name="ProBodybuilder">
+		<maxtip>20</maxtip>
+		<patience>2</patience>
+		<description>Pro athlete! Always hungry and in a hurry for the training!</description>
+	</character>
+	<character name="FatMan">
+		<maxtip>26</maxtip>
+		<patience>1</patience>
+		<description>Restaurant Chef! Loves tasty burgers and leaves great tips!</description>
+	</character>
+	<character name="FatLady">
+		<maxtip>30</maxtip>
+		<patience>1</patience>
+		<description>Opera singer! Great tipper and loves to eat! Always in a rush!</description>
+	</character>
+</xml>

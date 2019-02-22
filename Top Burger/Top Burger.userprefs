@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\AdsManager\AdsManager.cs">
+    <Files>
+      <File FileName="Assets\Scripts\AdsManager\AdsManager.cs" Line="110" Column="29" />
+      <File FileName="Assets\Scripts\Menu\MenuManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TemplateScripts\SplashScene.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Timer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LevelGenerator.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TemplateScripts\Rate.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GlobalVariables.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

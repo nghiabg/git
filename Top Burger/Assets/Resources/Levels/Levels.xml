@@ -1,0 +1,602 @@
+<xml>
+	<level number="1">
+		<goal>20</goal> 
+		<unlockedItem>0</unlockedItem>
+		<unlockedTitleWorld1>New item unlocked 1</unlockedTitleWorld1>
+		<unlockedMessageWorld1>You got some item 1 </unlockedMessageWorld1>
+		<unlockedTitleWorld2>New item unlocked 2</unlockedTitleWorld2>
+		<unlockedMessageWorld2>You got some item 2 </unlockedMessageWorld2>
+		<unlockedTitleWorld3>New item unlocked 3</unlockedTitleWorld3>
+		<unlockedMessageWorld3>You got some item 3</unlockedMessageWorld3>
+	</level>
+	<level number="2">
+		<goal>71</goal> 
+		<unlockedItem>0</unlockedItem>
+		<unlockedTitleWorld1>New item unlocked 1</unlockedTitleWorld1>
+		<unlockedMessageWorld1>You got some item 1 </unlockedMessageWorld1>
+		<unlockedTitleWorld2>New item unlocked 2</unlockedTitleWorld2>
+		<unlockedMessageWorld2>You got some item 2 </unlockedMessageWorld2>
+		<unlockedTitleWorld3>New item unlocked 3</unlockedTitleWorld3>
+		<unlockedMessageWorld3>You got some item 3</unlockedMessageWorld3>
+	</level>
+	<level number="3">
+		<goal>72</goal> 
+		<unlockedItem>0</unlockedItem>
+		<unlockedTitleWorld1>New item unlocked</unlockedTitleWorld1>
+		<unlockedMessageWorld1>You got some item</unlockedMessageWorld1>
+		<unlockedTitleWorld2>New item unlocked</unlockedTitleWorld2>
+		<unlockedMessageWorld2>You got some item</unlockedMessageWorld2>
+		<unlockedTitleWorld3>New item unlocked</unlockedTitleWorld3>
+		<unlockedMessageWorld3>You got some item</unlockedMessageWorld3>
+	</level>
+	<level number="4">
+		<goal>73</goal> 
+		<unlockedItem>0</unlockedItem>
+		<unlockedTitleWorld1>New item unlocked</unlockedTitleWorld1>
+		<unlockedMessageWorld1>You got some item</unlockedMessageWorld1>
+		<unlockedTitleWorld2>New item unlocked</unlockedTitleWorld2>
+		<unlockedMessageWorld2>You got some item</unlockedMessageWorld2>
+		<unlockedTitleWorld3>New item unlocked</unlockedTitleWorld3>
+		<unlockedMessageWorld3>You got some item</unlockedMessageWorld3>
+	</level>
+	<level number="5">
+		<goal>74</goal> 
+		<unlockedItem>1</unlockedItem>
+		<unlockedTitleWorld1>You have a new customer</unlockedTitleWorld1>
+		<unlockedMessageWorld1>School boy! Eats a lot, always in a hurry!</unlockedMessageWorld1>
+		<unlockedTitleWorld2>You have a new customer</unlockedTitleWorld2>
+		<unlockedMessageWorld2>School boy! Eats a lot, always in a hurry!</unlockedMessageWorld2>
+		<unlockedTitleWorld3>You have a new customer</unlockedTitleWorld3>
+		<unlockedMessageWorld3>School boy! Eats a lot, always in a hurry!</unlockedMessageWorld3>
+	</level>
+	<level number="6">
+		<goal>75</goal> 
+		<unlockedItem>2</unlockedItem>
+		<unlockedTitleWorld1>New item unlocked: Soda</unlockedTitleWorld1>
+		<unlockedMessageWorld1>Your customers will love this tasty refreshment</unlockedMessageWorld1>
+		<unlockedTitleWorld2>New item unlocked: Soda</unlockedTitleWorld2>
+		<unlockedMessageWorld2>Your customers will love this tasty refreshment</unlockedMessageWorld2>
+		<unlockedTitleWorld3>New item unlocked: Soda</unlockedTitleWorld3>
+		<unlockedMessageWorld3>Your customers will love this tasty refreshment</unlockedMessageWorld3>
+	</level>
+	<level number="7">
+		<goal>76</goal> 
+		<unlockedItem>0</unlockedItem>
+		<unlockedTitleWorld1>New item unlocked</unlockedTitleWorld1>
+		<unlockedMessageWorld1>You got some item</unlockedMessageWorld1>
+		<unlockedTitleWorld2>New item unlocked</unlockedTitleWorld2>
+		<unlockedMessageWorld2>You got some item</unlockedMessageWorld2>
+		<unlockedTitleWorld3>New item unlocked</unlockedTitleWorld3>
+		<unlockedMessageWorld3>You got some item</unlockedMessageWorld3>
+	</level>
+	<level number="8">
+		<goal>77</goal> 
+		<unlockedItem>3</unlockedItem>
+		<unlockedTitleWorld1>HINT ARROWS power-up unlocked</unlockedTitleWorld1>
+		<unlockedMessageWorld1>Arrows will show you which food to use next</unlockedMessageWorld1>
+		<unlockedTitleWorld2>HINT ARROWS power-up unlocked</unlockedTitleWorld2>
+		<unlockedMessageWorld2>Arrows will show you which food to use next</unlockedMessageWorld2>
+		<unlockedTitleWorld3>HINT ARROWS power-up unlocked</unlockedTitleWorld3>
+		<unlockedMessageWorld3>Arrows will show you which food to use next</unlockedMessageWorld3>
+	</level>
+	<level number="9">
+		<goal>78</goal> 
+		<unlockedItem>0</unlockedItem>
+		<unlockedTitleWorld1>New item unlocked</unlockedTitleWorld1>
+		<unlockedMessageWorld1>You got some item</unlockedMessageWorld1>
+		<unlockedTitleWorld2>New item unlocked</unlockedTitleWorld2>
+		<unlockedMessageWorld2>You got some item</unlockedMessageWorld2>
+		<unlockedTitleWorld3>New item unlocked</unlockedTitleWorld3>
+		<unlockedMessageWorld3>You got some item</unlockedMessageWorld3>
+	</level>
+	<level number="10">
+		<goal>79</goal> 
+		<unlockedItem>4</unlockedItem>
+		<unlockedTitleWorld1>New food unlocked: Ketchup</unlockedTitleWorld1>
+		<unlockedMessageWorld1>Every burger tastes better with ketchup</unlockedMessageWorld1>
+		<unlockedTitleWorld2>New food unlocked: Cheese</unlockedTitleWorld2>
+		<unlockedMessageWorld2>Now you can make delicious cheeseburgers</unlockedMessageWorld2>
+		<unlockedTitleWorld3>New food unlocked: Yellow mustard</unlockedTitleWorld3>
+		<unlockedMessageWorld3>Customers love juicy burgers with mustard</unlockedMessageWorld3>
+	</level>
+	<level number="11">
+		<goal>80</goal> 
+		<unlockedItem>5</unlockedItem>
+		<unlockedTitleWorld1>TIME FREEZE help unlocked</unlockedTitleWorld1>
+		<unlockedMessageWorld1>Time stops and customer's mood won't change for 5 seconds</unlockedMessageWorld1>
+		<unlockedTitleWorld2>TIME FREEZE help unlocked</unlockedTitleWorld2>
+		<unlockedMessageWorld2>Time stops and customer's mood won't change for 5 seconds</unlockedMessageWorld2>
+		<unlockedTitleWorld3>TIME FREEZE help unlocked</unlockedTitleWorld3>
+		<unlockedMessageWorld3>Time stops and customer's mood won't change for 5 seconds</unlockedMessageWorld3>
+	</level>
+	<level number="12">
+		<goal>81</goal> 
+		<unlockedItem>0</unlockedItem>
+		<unlockedTitleWorld1>New item unlocked</unlockedTitleWorld1>
+		<unlockedMessageWorld1>You got some item</unlockedMessageWorld1>
+		<unlockedTitleWorld2>New item unlocked</unlockedTitleWorld2>
+		<unlockedMessageWorld2>You got some item</unlockedMessageWorld2>
+		<unlockedTitleWorld3>New item unlocked</unlockedTitleWorld3>
+		<unlockedMessageWorld3>You got some item</unlockedMessageWorld3>
+	</level>
+	<level number="13">
+		<goal>82</goal> 
+		<unlockedItem>0</unlockedItem>
+		<unlockedTitleWorld1>New item unlocked</unlockedTitleWorld1>
+		<unlockedMessageWorld1>You got some item</unlockedMessageWorld1>
+		<unlockedTitleWorld2>New item unlocked</unlockedTitleWorld2>
+		<unlockedMessageWorld2>You got some item</unlockedMessageWorld2>
+		<unlockedTitleWorld3>New item unlocked</unlockedTitleWorld3>
+		<unlockedMessageWorld3>You got some item</unlockedMessageWorld3>
+	</level>
+	<level number="14">
+		<goal>83</goal> 
+		<unlockedItem>6</unlockedItem>
+		<unlockedTitleWorld1>New food unlocked: Onion</unlockedTitleWorld1>
+		<unlockedMessageWorld1>Make traditional burgers with onions</unlockedMessageWorld1>
+		<unlockedTitleWorld2>New food unlocked: Jalapeno</unlockedTitleWorld2>
+		<unlockedMessageWorld2>Real gourmets will love your new hot burgers</unlockedMessageWorld2>
+		<unlockedTitleWorld3>New food unlocked: Basil pesto</unlockedTitleWorld3>
+		<unlockedMessageWorld3>Add basil pesto for a more sophisticated flavor</unlockedMessageWorld3>
+	</level>
+	<level number="15">
+		<goal>84</goal> 
+		<unlockedItem>7</unlockedItem>
+		<unlockedTitleWorld1>You have a new customer</unlockedTitleWorld1>
+		<unlockedMessageWorld1>Business manager! He's in a rush, but leaves good tips!</unlockedMessageWorld1>
+		<unlockedTitleWorld2>You have a new customer</unlockedTitleWorld2>
+		<unlockedMessageWorld2>Business manager! He's in a rush, but leaves good tips!</unlockedMessageWorld2>
+		<unlockedTitleWorld3>You have a new customer</unlockedTitleWorld3>
+		<unlockedMessageWorld3>Business manager! He's in a rush, but leaves good tips!</unlockedMessageWorld3>
+	</level>
+	<level number="16">
+		<goal>85</goal> 
+		<unlockedItem>0</unlockedItem>
+		<unlockedTitleWorld1>New item unlocked</unlockedTitleWorld1>
+		<unlockedMessageWorld1>You got some item</unlockedMessageWorld1>
+		<unlockedTitleWorld2>New item unlocked</unlockedTitleWorld2>
+		<unlockedMessageWorld2>You got some item</unlockedMessageWorld2>
+		<unlockedTitleWorld3>New item unlocked</unlockedTitleWorld3>
+		<unlockedMessageWorld3>You got some item</unlockedMessageWorld3>
+	</level>
+	<level number="17">
+		<goal>86</goal> 
+		<unlockedItem>0</unlockedItem>
+		<unlockedTitleWorld1>New item unlocked</unlockedTitleWorld1>
+		<unlockedMessageWorld1>You got some item</unlockedMessageWorld1>
+		<unlockedTitleWorld2>New item unlocked</unlockedTitleWorld2>
+		<unlockedMessageWorld2>You got some item</unlockedMessageWorld2>
+		<unlockedTitleWorld3>New item unlocked</unlockedTitleWorld3>
+		<unlockedMessageWorld3>You got some item</unlockedMessageWorld3>
+	</level>
+	<level number="18">
+		<goal>87</goal> 
+		<unlockedItem>8</unlockedItem>
+		<unlockedTitleWorld1>New food unlocked: Fried chicken</unlockedTitleWorld1>
+		<unlockedMessageWorld1>Make delicious burgers with fried chicken</unlockedMessageWorld1>
+		<unlockedTitleWorld2>New food unlocked: Ham</unlockedTitleWorld2>
+		<unlockedMessageWorld2>Add ham to your burgers to boost flavor</unlockedMessageWorld2>
+		<unlockedTitleWorld3>New food unlocked: Avocado</unlockedTitleWorld3>
+		<unlockedMessageWorld3>Add avocado for an exotic taste</unlockedMessageWorld3>
+	</level>
+	<level number="19">
+		<goal>88</goal> 
+		<unlockedItem>0</unlockedItem>
+		<unlockedTitleWorld1>New item unlocked</unlockedTitleWorld1>
+		<unlockedMessageWorld1>You got some item</unlockedMessageWorld1>
+		<unlockedTitleWorld2>New item unlocked</unlockedTitleWorld2>
+		<unlockedMessageWorld2>You got some item</unlockedMessageWorld2>
+		<unlockedTitleWorld3>New item unlocked</unlockedTitleWorld3>
+		<unlockedMessageWorld3>You got some item</unlockedMessageWorld3>
+	</level>
+	<level number="20">
+		<goal>89</goal> 
+		<unlockedItem>0</unlockedItem>
+		<unlockedTitleWorld1>New item unlocked</unlockedTitleWorld1>
+		<unlockedMessageWorld1>You got some item</unlockedMessageWorld1>
+		<unlockedTitleWorld2>New item unlocked</unlockedTitleWorld2>
+		<unlockedMessageWorld2>You got some item</unlockedMessageWorld2>
+		<unlockedTitleWorld3>New item unlocked</unlockedTitleWorld3>
+		<unlockedMessageWorld3>You got some item</unlockedMessageWorld3>
+	</level>
+	<level number="21">
+		<goal>90</goal> 
+		<unlockedItem>9</unlockedItem>
+		<unlockedTitleWorld1>ADD TIME help unlocked</unlockedTitleWorld1>
+		<unlockedMessageWorld1>When running out of time, add 10 seconds to play longer</unlockedMessageWorld1>
+		<unlockedTitleWorld2>ADD TIME help unlocked</unlockedTitleWorld2>
+		<unlockedMessageWorld2>When running out of time, add 10 seconds to play longer</unlockedMessageWorld2>
+		<unlockedTitleWorld3>ADD TIME help unlocked</unlockedTitleWorld3>
+		<unlockedMessageWorld3>When running out of time, add 10 seconds to play longer</unlockedMessageWorld3>
+	</level>
+	<level number="22">
+		<goal>92</goal> 
+		<unlockedItem>10</unlockedItem>
+		<unlockedTitleWorld1>New food unlocked: Cucumber</unlockedTitleWorld1>
+		<unlockedMessageWorld1>Add cucumbers for a fresh taste</unlockedMessageWorld1>
+		<unlockedTitleWorld2>New food unlocked: Caramelized onions</unlockedTitleWorld2>
+		<unlockedMessageWorld2>Caramelized onions give burgers awesome taste</unlockedMessageWorld2>
+		<unlockedTitleWorld3>New food unlocked: Tzatziki sauce</unlockedTitleWorld3>
+		<unlockedMessageWorld3>Add tzatziki to make burgers taste heavenly</unlockedMessageWorld3>
+	</level>
+	<level number="23">
+		<goal>94</goal> 
+		<unlockedItem>0</unlockedItem>
+		<unlockedTitleWorld1>New item unlocked</unlockedTitleWorld1>
+		<unlockedMessageWorld1>You got some item</unlockedMessageWorld1>
+		<unlockedTitleWorld2>New item unlocked</unlockedTitleWorld2>
+		<unlockedMessageWorld2>You got some item</unlockedMessageWorld2>
+		<unlockedTitleWorld3>New item unlocked</unlockedTitleWorld3>
+		<unlockedMessageWorld3>You got some item</unlockedMessageWorld3>
+	</level>
+	<level number="24">
+		<goal>96</goal> 
+		<unlockedItem>0</unlockedItem>
+		<unlockedTitleWorld1>New item unlocked</unlockedTitleWorld1>
+		<unlockedMessageWorld1>You got some item</unlockedMessageWorld1>
+		<unlockedTitleWorld2>New item unlocked</unlockedTitleWorld2>
+		<unlockedMessageWorld2>You got some item</unlockedMessageWorld2>
+		<unlockedTitleWorld3>New item unlocked</unlockedTitleWorld3>
+		<unlockedMessageWorld3>You got some item</unlockedMessageWorld3>
+	</level>
+	<level number="25">
+		<goal>98</goal> 
+		<unlockedItem>11</unlockedItem>
+		<unlockedTitleWorld1>You have a new customer</unlockedTitleWorld1>
+		<unlockedMessageWorld1>Pro athlete! Always hungry and in a hurry!</unlockedMessageWorld1>
+		<unlockedTitleWorld2>You have a new customer</unlockedTitleWorld2>
+		<unlockedMessageWorld2>Pro athlete! Always hungry and in a hurry!</unlockedMessageWorld2>
+		<unlockedTitleWorld3>You have a new customer</unlockedTitleWorld3>
+		<unlockedMessageWorld3>Pro athlete! Always hungry and in a hurry!</unlockedMessageWorld3>
+	</level>
+	<level number="26">
+		<goal>100</goal> 
+		<unlockedItem>12</unlockedItem>
+		<unlockedTitleWorld1>New food unlocked: Tomato</unlockedTitleWorld1>
+		<unlockedMessageWorld1>Add tomatoes to make tastier burgers</unlockedMessageWorld1>
+		<unlockedTitleWorld2>New food unlocked: Bacon</unlockedTitleWorld2>
+		<unlockedMessageWorld2>Add bacon to make a really juicy burger</unlockedMessageWorld2>
+		<unlockedTitleWorld3>New food unlocked: Beef steak</unlockedTitleWorld3>
+		<unlockedMessageWorld3>Make tasty burgers with beef steak</unlockedMessageWorld3>
+	</level>
+	<level number="27">
+		<goal>102</goal> 
+		<unlockedItem>0</unlockedItem>
+		<unlockedTitleWorld1>New item unlocked</unlockedTitleWorld1>
+		<unlockedMessageWorld1>You got some item</unlockedMessageWorld1>
+		<unlockedTitleWorld2>New item unlocked</unlockedTitleWorld2>
+		<unlockedMessageWorld2>You got some item</unlockedMessageWorld2>
+		<unlockedTitleWorld3>New item unlocked</unlockedTitleWorld3>
+		<unlockedMessageWorld3>You got some item</unlockedMessageWorld3>
+	</level>
+	<level number="28">
+		<goal>104</goal> 
+		<unlockedItem>0</unlockedItem>
+		<unlockedTitleWorld1>New item unlocked</unlockedTitleWorld1>
+		<unlockedMessageWorld1>You got some item</unlockedMessageWorld1>
+		<unlockedTitleWorld2>New item unlocked</unlockedTitleWorld2>
+		<unlockedMessageWorld2>You got some item</unlockedMessageWorld2>
+		<unlockedTitleWorld3>New item unlocked</unlockedTitleWorld3>
+		<unlockedMessageWorld3>You got some item</unlockedMessageWorld3>
+	</level>
+	<level number="29">
+		<goal>106</goal> 
+		<unlockedItem>0</unlockedItem>
+		<unlockedTitleWorld1>New item unlocked</unlockedTitleWorld1>
+		<unlockedMessageWorld1>You got some item</unlockedMessageWorld1>
+		<unlockedTitleWorld2>New item unlocked</unlockedTitleWorld2>
+		<unlockedMessageWorld2>You got some item</unlockedMessageWorld2>
+		<unlockedTitleWorld3>New item unlocked</unlockedTitleWorld3>
+		<unlockedMessageWorld3>You got some item</unlockedMessageWorld3>
+	</level>
+	<level number="30">
+		<goal>108</goal> 
+		<unlockedItem>13</unlockedItem>
+		<unlockedTitleWorld1>New food unlocked: Ham</unlockedTitleWorld1>
+		<unlockedMessageWorld1>Give your burger a rich taste with a slice of ham</unlockedMessageWorld1>
+		<unlockedTitleWorld2>New food unlocked: Spinach</unlockedTitleWorld2>
+		<unlockedMessageWorld2>Make healthy burgers with spinach</unlockedMessageWorld2>
+		<unlockedTitleWorld3>New food unlocked: Salmon steak</unlockedTitleWorld3>
+		<unlockedMessageWorld3>Some customers love burgers with salmon steaks</unlockedMessageWorld3>
+	</level>
+	<level number="31">
+		<goal>110</goal> 
+		<unlockedItem>0</unlockedItem>
+		<unlockedTitleWorld1>New item unlocked</unlockedTitleWorld1>
+		<unlockedMessageWorld1>You got some item</unlockedMessageWorld1>
+		<unlockedTitleWorld2>New item unlocked</unlockedTitleWorld2>
+		<unlockedMessageWorld2>You got some item</unlockedMessageWorld2>
+		<unlockedTitleWorld3>New item unlocked</unlockedTitleWorld3>
+		<unlockedMessageWorld3>You got some item</unlockedMessageWorld3>
+	</level>
+	<level number="32">
+		<goal>115</goal> 
+		<unlockedItem>14</unlockedItem>
+		<unlockedTitleWorld1>TIP MASTER power-up unlocked</unlockedTitleWorld1>
+		<unlockedMessageWorld1>Automatically collect all tips your customers leave</unlockedMessageWorld1>
+		<unlockedTitleWorld2>TIP MASTER power-up unlocked</unlockedTitleWorld2>
+		<unlockedMessageWorld2>Automatically collect all tips your customers leave</unlockedMessageWorld2>
+		<unlockedTitleWorld3>TIP MASTER power-up unlocked</unlockedTitleWorld3>
+		<unlockedMessageWorld3>Automatically collect all tips your customers leave</unlockedMessageWorld3>
+	</level>
+	<level number="33">
+		<goal>120</goal> 
+		<unlockedItem>0</unlockedItem>
+		<unlockedTitleWorld1>New item unlocked</unlockedTitleWorld1>
+		<unlockedMessageWorld1>You got some item</unlockedMessageWorld1>
+		<unlockedTitleWorld2>New item unlocked</unlockedTitleWorld2>
+		<unlockedMessageWorld2>You got some item</unlockedMessageWorld2>
+		<unlockedTitleWorld3>New item unlocked</unlockedTitleWorld3>
+		<unlockedMessageWorld3>You got some item</unlockedMessageWorld3>
+	</level>
+	<level number="34">
+		<goal>125</goal> 
+		<unlockedItem>15</unlockedItem>
+		<unlockedTitleWorld1>New food unlocked: Egg</unlockedTitleWorld1>
+		<unlockedMessageWorld1>Add egg to make a more delicious burger</unlockedMessageWorld1>
+		<unlockedTitleWorld2>New food unlocked: Turkey steak</unlockedTitleWorld2>
+		<unlockedMessageWorld2>Make delicious burgers with turkey steaks</unlockedMessageWorld2>
+		<unlockedTitleWorld3>New food unlocked: Mushrooms</unlockedTitleWorld3>
+		<unlockedMessageWorld3>Make awesome burgers with mushrooms</unlockedMessageWorld3>
+	</level>
+	<level number="35">
+		<goal>130</goal> 
+		<unlockedItem>16</unlockedItem>
+		<unlockedTitleWorld1>You have a new customer</unlockedTitleWorld1>
+		<unlockedMessageWorld1>Restaurant Chef! Loves tasty burgers and leaves great tips!</unlockedMessageWorld1>
+		<unlockedTitleWorld2>You have a new customer</unlockedTitleWorld2>
+		<unlockedMessageWorld2>Restaurant Chef! Loves tasty burgers and leaves great tips!</unlockedMessageWorld2>
+		<unlockedTitleWorld3>You have a new customer</unlockedTitleWorld3>
+		<unlockedMessageWorld3>Restaurant Chef! Loves tasty burgers and leaves great tips!</unlockedMessageWorld3>
+	</level>
+	<level number="36">
+		<goal>135</goal> 
+		<unlockedItem>0</unlockedItem>
+		<unlockedTitleWorld1>New item unlocked</unlockedTitleWorld1>
+		<unlockedMessageWorld1>You got some item</unlockedMessageWorld1>
+		<unlockedTitleWorld2>New item unlocked</unlockedTitleWorld2>
+		<unlockedMessageWorld2>You got some item</unlockedMessageWorld2>
+		<unlockedTitleWorld3>New item unlocked</unlockedTitleWorld3>
+		<unlockedMessageWorld3>You got some item</unlockedMessageWorld3>
+	</level>
+	<level number="37">
+		<goal>140</goal> 
+		<unlockedItem>0</unlockedItem>
+		<unlockedTitleWorld1>New item unlocked</unlockedTitleWorld1>
+		<unlockedMessageWorld1>You got some item</unlockedMessageWorld1>
+		<unlockedTitleWorld2>New item unlocked</unlockedTitleWorld2>
+		<unlockedMessageWorld2>You got some item</unlockedMessageWorld2>
+		<unlockedTitleWorld3>New item unlocked</unlockedTitleWorld3>
+		<unlockedMessageWorld3>You got some item</unlockedMessageWorld3>
+	</level>
+	<level number="38">
+		<goal>145</goal> 
+		<unlockedItem>17</unlockedItem>
+		<unlockedTitleWorld1>New food unlocked: Chili pepper</unlockedTitleWorld1>
+		<unlockedMessageWorld1>Real gourmets will love your new hot burgers</unlockedMessageWorld1>
+		<unlockedTitleWorld2>New food unlocked: Mushrooms</unlockedTitleWorld2>
+		<unlockedMessageWorld2>Make awesome burgers with mushrooms</unlockedMessageWorld2>
+		<unlockedTitleWorld3>New food unlocked: Arugula</unlockedTitleWorld3>
+		<unlockedMessageWorld3>Arugula adds a taste of Italian cuisine to your burgers</unlockedMessageWorld3>
+	</level>
+	<level number="39">
+		<goal>150</goal> 
+		<unlockedItem>0</unlockedItem>
+		<unlockedTitleWorld1>New item unlocked</unlockedTitleWorld1>
+		<unlockedMessageWorld1>You got some item</unlockedMessageWorld1>
+		<unlockedTitleWorld2>New item unlocked</unlockedTitleWorld2>
+		<unlockedMessageWorld2>You got some item</unlockedMessageWorld2>
+		<unlockedTitleWorld3>New item unlocked</unlockedTitleWorld3>
+		<unlockedMessageWorld3>You got some item</unlockedMessageWorld3>
+	</level>
+	<level number="40">
+		<goal>155</goal> 
+		<unlockedItem>0</unlockedItem>
+		<unlockedTitleWorld1>New item unlocked</unlockedTitleWorld1>
+		<unlockedMessageWorld1>You got some item</unlockedMessageWorld1>
+		<unlockedTitleWorld2>New item unlocked</unlockedTitleWorld2>
+		<unlockedMessageWorld2>You got some item</unlockedMessageWorld2>
+		<unlockedTitleWorld3>New item unlocked</unlockedTitleWorld3>
+		<unlockedMessageWorld3>You got some item</unlockedMessageWorld3>
+	</level>
+	<level number="41">
+		<goal>160</goal> 
+		<unlockedItem>0</unlockedItem>
+		<unlockedTitleWorld1>New item unlocked</unlockedTitleWorld1>
+		<unlockedMessageWorld1>You got some item</unlockedMessageWorld1>
+		<unlockedTitleWorld2>New item unlocked</unlockedTitleWorld2>
+		<unlockedMessageWorld2>You got some item</unlockedMessageWorld2>
+		<unlockedTitleWorld3>New item unlocked</unlockedTitleWorld3>
+		<unlockedMessageWorld3>You got some item</unlockedMessageWorld3>
+	</level>
+	<level number="42">
+		<goal>165</goal> 
+		<unlockedItem>18</unlockedItem>
+		<unlockedTitleWorld1>New food unlocked: Bacon</unlockedTitleWorld1>
+		<unlockedMessageWorld1>Add bacon to make a really juicy burger</unlockedMessageWorld1>
+		<unlockedTitleWorld2>New food unlocked: Russian dressing</unlockedTitleWorld2>
+		<unlockedMessageWorld2>Make delicious burgers with Russian dressing</unlockedMessageWorld2>
+		<unlockedTitleWorld3>New food unlocked: Sliced pepper</unlockedTitleWorld3>
+		<unlockedMessageWorld3>Add sliced pepper to make fresh and tasty burgers</unlockedMessageWorld3>
+	</level>
+	<level number="43">
+		<goal>170</goal> 
+		<unlockedItem>0</unlockedItem>
+		<unlockedTitleWorld1>New item unlocked</unlockedTitleWorld1>
+		<unlockedMessageWorld1>You got some item</unlockedMessageWorld1>
+		<unlockedTitleWorld2>New item unlocked</unlockedTitleWorld2>
+		<unlockedMessageWorld2>You got some item</unlockedMessageWorld2>
+		<unlockedTitleWorld3>New item unlocked</unlockedTitleWorld3>
+		<unlockedMessageWorld3>You got some item</unlockedMessageWorld3>
+	</level>
+	<level number="44">
+		<goal>175</goal> 
+		<unlockedItem>0</unlockedItem>
+		<unlockedTitleWorld1>New item unlocked</unlockedTitleWorld1>
+		<unlockedMessageWorld1>You got some item</unlockedMessageWorld1>
+		<unlockedTitleWorld2>New item unlocked</unlockedTitleWorld2>
+		<unlockedMessageWorld2>You got some item</unlockedMessageWorld2>
+		<unlockedTitleWorld3>New item unlocked</unlockedTitleWorld3>
+		<unlockedMessageWorld3>You got some item</unlockedMessageWorld3>
+	</level>
+	<level number="45">
+		<goal>180</goal> 
+		<unlockedItem>19</unlockedItem>
+		<unlockedTitleWorld1>You have a new customer</unlockedTitleWorld1>
+		<unlockedMessageWorld1>Opera singer! Great tipper and loves to eat! Always in a rush!</unlockedMessageWorld1>
+		<unlockedTitleWorld2>You have a new customer</unlockedTitleWorld2>
+		<unlockedMessageWorld2>Opera singer! Great tipper and loves to eat! Always in a rush!</unlockedMessageWorld2>
+		<unlockedTitleWorld3>You have a new customer</unlockedTitleWorld3>
+		<unlockedMessageWorld3>Opera singer! Great tipper and loves to eat! Always in a rush!</unlockedMessageWorld3>
+	</level>
+	<level number="46">
+		<goal>185</goal> 
+		<unlockedItem>20</unlockedItem>
+		<unlockedTitleWorld1>New food unlocked: Chicken nuggets</unlockedTitleWorld1>
+		<unlockedMessageWorld1>Now you can serve delicious chicken nuggets</unlockedMessageWorld1>
+		<unlockedTitleWorld2>New food unlocked: Chicken nuggets</unlockedTitleWorld2>
+		<unlockedMessageWorld2>Now you can serve delicious chicken nuggets</unlockedMessageWorld2>
+		<unlockedTitleWorld3>New food unlocked: Chicken nuggets</unlockedTitleWorld3>
+		<unlockedMessageWorld3>Now you can serve delicious chicken nuggets</unlockedMessageWorld3>
+	</level>
+	<level number="47">
+		<goal>190</goal> 
+		<unlockedItem>0</unlockedItem>
+		<unlockedTitleWorld1>New item unlocked</unlockedTitleWorld1>
+		<unlockedMessageWorld1>You got some item</unlockedMessageWorld1>
+		<unlockedTitleWorld2>New item unlocked</unlockedTitleWorld2>
+		<unlockedMessageWorld2>You got some item</unlockedMessageWorld2>
+		<unlockedTitleWorld3>New item unlocked</unlockedTitleWorld3>
+		<unlockedMessageWorld3>You got some item</unlockedMessageWorld3>
+	</level>
+	<level number="48">
+		<goal>195</goal> 
+		<unlockedItem>21</unlockedItem>
+		<unlockedTitleWorld1>HAPPY TIME power-up unlocked</unlockedTitleWorld1>
+		<unlockedMessageWorld1>Increase happiness of customers for 10%</unlockedMessageWorld1>
+		<unlockedTitleWorld2>HAPPY TIME power-up unlocked</unlockedTitleWorld2>
+		<unlockedMessageWorld2>Increase happiness of customers for 10%</unlockedMessageWorld2>
+		<unlockedTitleWorld3>HAPPY TIME power-up unlocked</unlockedTitleWorld3>
+		<unlockedMessageWorld3>Increase happiness of customers for 10%</unlockedMessageWorld3>
+	</level>
+	<level number="49">
+		<goal>200</goal> 
+		<unlockedItem>0</unlockedItem>
+		<unlockedTitleWorld1>New item unlocked</unlockedTitleWorld1>
+		<unlockedMessageWorld1>You got some item</unlockedMessageWorld1>
+		<unlockedTitleWorld2>New item unlocked</unlockedTitleWorld2>
+		<unlockedMessageWorld2>You got some item</unlockedMessageWorld2>
+		<unlockedTitleWorld3>New item unlocked</unlockedTitleWorld3>
+		<unlockedMessageWorld3>You got some item</unlockedMessageWorld3>
+	</level>
+	<level number="50">
+		<goal>205</goal> 
+		<unlockedItem>22</unlockedItem>
+		<unlockedTitleWorld1>New food unlocked: Fries</unlockedTitleWorld1>
+		<unlockedMessageWorld1>Burger and fries make a perfect match</unlockedMessageWorld1>
+		<unlockedTitleWorld2>New food unlocked: Fries</unlockedTitleWorld2>
+		<unlockedMessageWorld2>Burger and fries make a perfect match</unlockedMessageWorld2>
+		<unlockedTitleWorld3>New food unlocked: Fries</unlockedTitleWorld3>
+		<unlockedMessageWorld3>Burger and fries make a perfect match</unlockedMessageWorld3>
+	</level>
+	<level number="51">
+		<goal>210</goal> 
+		<unlockedItem>0</unlockedItem>
+		<unlockedTitleWorld1>New item unlocked</unlockedTitleWorld1>
+		<unlockedMessageWorld1>You got some item</unlockedMessageWorld1>
+		<unlockedTitleWorld2>New item unlocked</unlockedTitleWorld2>
+		<unlockedMessageWorld2>You got some item</unlockedMessageWorld2>
+		<unlockedTitleWorld3>New item unlocked</unlockedTitleWorld3>
+		<unlockedMessageWorld3>You got some item</unlockedMessageWorld3>
+	</level>
+	<level number="52">
+		<goal>215</goal> 
+		<unlockedItem>0</unlockedItem>
+		<unlockedTitleWorld1>New item unlocked</unlockedTitleWorld1>
+		<unlockedMessageWorld1>You got some item</unlockedMessageWorld1>
+		<unlockedTitleWorld2>New item unlocked</unlockedTitleWorld2>
+		<unlockedMessageWorld2>You got some item</unlockedMessageWorld2>
+		<unlockedTitleWorld3>New item unlocked</unlockedTitleWorld3>
+		<unlockedMessageWorld3>You got some item</unlockedMessageWorld3>
+	</level>
+	<level number="53">
+		<goal>220</goal> 
+		<unlockedItem>0</unlockedItem>
+		<unlockedTitleWorld1>New item unlocked</unlockedTitleWorld1>
+		<unlockedMessageWorld1>You got some item</unlockedMessageWorld1>
+		<unlockedTitleWorld2>New item unlocked</unlockedTitleWorld2>
+		<unlockedMessageWorld2>You got some item</unlockedMessageWorld2>
+		<unlockedTitleWorld3>New item unlocked</unlockedTitleWorld3>
+		<unlockedMessageWorld3>You got some item</unlockedMessageWorld3>
+	</level>
+	<level number="54">
+		<goal>225</goal> 
+		<unlockedItem>23</unlockedItem>
+		<unlockedTitleWorld1>New drink unlocked: Milkshake</unlockedTitleWorld1>
+		<unlockedMessageWorld1>Serve delicious milkshakes to your customers</unlockedMessageWorld1>
+		<unlockedTitleWorld2>New drink unlocked: Milkshake</unlockedTitleWorld2>
+		<unlockedMessageWorld2>Serve delicious milkshakes to your customers</unlockedMessageWorld2>
+		<unlockedTitleWorld3>New drink unlocked: Milkshake</unlockedTitleWorld3>
+		<unlockedMessageWorld3>Serve delicious milkshakes to your customers</unlockedMessageWorld3>
+	</level>
+	<level number="55">
+		<goal>230</goal> 
+		<unlockedItem>0</unlockedItem>
+		<unlockedTitleWorld1>New item unlocked</unlockedTitleWorld1>
+		<unlockedMessageWorld1>You got some item</unlockedMessageWorld1>
+		<unlockedTitleWorld2>New item unlocked</unlockedTitleWorld2>
+		<unlockedMessageWorld2>You got some item</unlockedMessageWorld2>
+		<unlockedTitleWorld3>New item unlocked</unlockedTitleWorld3>
+		<unlockedMessageWorld3>You got some item</unlockedMessageWorld3>
+	</level>
+	<level number="56">
+		<goal>235</goal> 
+		<unlockedItem>0</unlockedItem>
+		<unlockedTitleWorld1>New item unlocked</unlockedTitleWorld1>
+		<unlockedMessageWorld1>You got some item</unlockedMessageWorld1>
+		<unlockedTitleWorld2>New item unlocked</unlockedTitleWorld2>
+		<unlockedMessageWorld2>You got some item</unlockedMessageWorld2>
+		<unlockedTitleWorld3>New item unlocked</unlockedTitleWorld3>
+		<unlockedMessageWorld3>You got some item</unlockedMessageWorld3>
+	</level>
+	<level number="57">
+		<goal>240</goal> 
+		<unlockedItem>0</unlockedItem>
+		<unlockedTitleWorld1>New item unlocked</unlockedTitleWorld1>
+		<unlockedMessageWorld1>You got some item</unlockedMessageWorld1>
+		<unlockedTitleWorld2>New item unlocked</unlockedTitleWorld2>
+		<unlockedMessageWorld2>You got some item</unlockedMessageWorld2>
+		<unlockedTitleWorld3>New item unlocked</unlockedTitleWorld3>
+		<unlockedMessageWorld3>You got some item</unlockedMessageWorld3>
+	</level>
+	<level number="58">
+		<goal>245</goal> 
+		<unlockedItem>0</unlockedItem>
+		<unlockedTitleWorld1>New item unlocked</unlockedTitleWorld1>
+		<unlockedMessageWorld1>You got some item</unlockedMessageWorld1>
+		<unlockedTitleWorld2>New item unlocked</unlockedTitleWorld2>
+		<unlockedMessageWorld2>You got some item</unlockedMessageWorld2>
+		<unlockedTitleWorld3>New item unlocked</unlockedTitleWorld3>
+		<unlockedMessageWorld3>You got some item</unlockedMessageWorld3>
+	</level>
+	<level number="59">
+		<goal>250</goal> 
+		<unlockedItem>0</unlockedItem>
+		<unlockedTitleWorld1>New item unlocked</unlockedTitleWorld1>
+		<unlockedMessageWorld1>You got some item</unlockedMessageWorld1>
+		<unlockedTitleWorld2>New item unlocked</unlockedTitleWorld2>
+		<unlockedMessageWorld2>You got some item</unlockedMessageWorld2>
+		<unlockedTitleWorld3>New item unlocked</unlockedTitleWorld3>
+		<unlockedMessageWorld3>You got some item</unlockedMessageWorld3>
+	</level>
+	<level number="60">
+		<goal>255</goal> 
+		<unlockedItem>0</unlockedItem>
+		<unlockedTitleWorld1>New item unlocked</unlockedTitleWorld1>
+		<unlockedMessageWorld1>You got some item</unlockedMessageWorld1>
+		<unlockedTitleWorld2>New item unlocked</unlockedTitleWorld2>
+		<unlockedMessageWorld2>You got some item</unlockedMessageWorld2>
+		<unlockedTitleWorld3>New item unlocked</unlockedTitleWorld3>
+		<unlockedMessageWorld3>You got some item</unlockedMessageWorld3>
+	</level>
+</xml>

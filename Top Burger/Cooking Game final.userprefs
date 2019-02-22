@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\LevelGenerator.cs">
+    <Files>
+      <File FileName="Assets\Scripts\FacebookNativeAd.cs" Line="1" Column="1" />
+      <File FileName="Assets\AudienceNetwork\Library\AdHandler.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\WebelinxCMS\WebelinxCMS.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TemplateScripts\SplashScene.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Menu\MenuManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LevelGenerator.cs" Line="17" Column="28" />
+      <File FileName="Assets\Scripts\TemplateScripts\StringLoggingExtensions.cs" Line="1" Column="1" />
+      <File FileName="Assets\AudienceNetwork\Library\NativeAd.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CrossPromotion\WebelinxBanner.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CharacterChanger.cs" Line="13" Column="48" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

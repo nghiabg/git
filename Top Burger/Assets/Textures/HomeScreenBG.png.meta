@@ -1,0 +1,454 @@
+fileFormatVersion: 2
+guid: 8962690bb03a91a40a38051e3e31e0e7
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: HomeScreenBG_0
+    21300002: HomeScreenBG_1
+    21300004: HomeScreenBG_2
+    21300006: HomeScreenBG_3
+    21300008: HomeScreenBG_4
+    21300010: HomeScreenBG_5
+    21300012: HomeScreenBG_6
+    21300014: HomeScreenBG_8
+    21300016: HomeScreenBG_9
+    21300018: HomeScreenBG_10
+    21300020: HomeScreenBG_11
+    21300022: HomeScreenBG_12
+    21300024: HomeScreenBG_13
+    21300026: HomeScreenBG_14
+    21300028: HomeScreenBG_15
+    21300030: HomeScreenBG_16
+    21300032: HomeScreenBG_17
+    21300034: HomeScreenBG_18
+    21300036: HomeScreenBG_19
+    21300038: HomeScreenBG_20
+    21300040: HomeScreenBG_22
+    21300042: HomeScreenBG_23
+    21300044: HomeScreenBG_24
+    21300046: HomeScreenBG_25
+    21300048: HomeScreenBG_26
+    21300050: HomeScreenBG_27
+    21300052: HomeScreenBG_28
+    21300054: HomeScreenBG_29
+    21300056: HomeScreenBG_30
+    21300058: HomeScreenBG_31
+    21300060: HomeScreenBG_31
+    21300062: HomeScreenBG_32
+    21300064: HomeScreenBG_33
+    21300066: HomeScreenBG_33
+    21300068: HomeScreenBG_34
+    21300070: HomeScreenBG_35
+    21300072: HomeScreenBG_36
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: HomeScreenBG_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 955
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HomeScreenBG_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 900
+        width: 95
+        height: 122
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HomeScreenBG_2
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 795
+        width: 134
+        height: 229
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HomeScreenBG_3
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 539
+        width: 721
+        height: 481
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HomeScreenBG_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 899
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HomeScreenBG_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 853
+        width: 89
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HomeScreenBG_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 791
+        width: 154
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HomeScreenBG_8
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 740
+        width: 61
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HomeScreenBG_9
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 740
+        width: 6
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HomeScreenBG_10
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 710
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HomeScreenBG_11
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 687
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HomeScreenBG_12
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 653
+        width: 15
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HomeScreenBG_13
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 653
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HomeScreenBG_14
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 603
+        width: 59
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HomeScreenBG_15
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 538
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HomeScreenBG_16
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 450
+        width: 127
+        height: 83
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HomeScreenBG_17
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 445
+        width: 148
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HomeScreenBG_18
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 453
+        width: 133
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HomeScreenBG_19
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 449
+        width: 209
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HomeScreenBG_20
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 451
+        width: 166
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HomeScreenBG_22
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 336
+        width: 26
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HomeScreenBG_23
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 325
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HomeScreenBG_24
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 220
+        width: 111
+        height: 192
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HomeScreenBG_25
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 222
+        width: 36
+        height: 222
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HomeScreenBG_26
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 221
+        width: 77
+        height: 214
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HomeScreenBG_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 219
+        width: 360
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HomeScreenBG_28
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 222
+        width: 189
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HomeScreenBG_29
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 220
+        width: 56
+        height: 98
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HomeScreenBG_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1024
+        height: 217
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HomeScreenBG_31
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 654
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HomeScreenBG_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 295
+        width: 261
+        height: 143
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HomeScreenBG_32
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 299
+        width: 280
+        height: 143
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HomeScreenBG_33
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 290
+        width: 170
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HomeScreenBG_33
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 459
+        width: 168
+        height: 81
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HomeScreenBG_34
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 528
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HomeScreenBG_35
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 591
+        width: 136
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HomeScreenBG_36
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 596
+        width: 228
+        height: 194
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
